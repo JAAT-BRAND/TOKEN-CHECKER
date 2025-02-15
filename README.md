@@ -5,7 +5,7 @@
 ## <h3 align="center">
 # USAGE
 ```
-rm rf-TOKEN-CHECKER 
+rm rf-TOKEN-CHECKER
 git clone https://github.com/JAAT-BRAND/TOKEN-CHECKER
 cd TOKEN-CHECKER
 python Julmi.py
